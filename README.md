@@ -108,25 +108,22 @@ That's it! The script will automatically:
 
 ```
 Loading model...
-Found 6 images
+Found 5 images
 
-Processing: dataset-cover.jpg
+Processing: img-1.jpeg
   ✓ ঢাকা মেট্রো-ল ২১১৫৮১৭
 
-Processing: test_image.jpg
+Processing: img-2.jpg
   ✓ ঢাকা মেট্রো-গ ১৯-০৪৭৬
 
-Processing: banglanp.jpeg
+Processing: img-3.jpeg
   ✓ ঢাকা মেট্রো-গ ৩১-৯৯৫৭
 
-Processing: images (1).jpeg
+Processing: img-4.jpeg
   ✓ ঢাকা মেট্রো-গ ২০-০১১
 
-Processing: images (2).jpeg
+Processing: img-5.jpg
   ✓ গাজীপুর-জ -৪০২৬
-
-Processing: images.jpeg
-  ✓ ঢাকা মেট্রো-গ ১১-৭৫৩
 ```
 
 ## Project Structure
