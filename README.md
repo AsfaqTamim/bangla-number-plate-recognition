@@ -46,14 +46,14 @@ pip install -r requirements.txt
 
 **macOS/Linux:**
 ```bash
-gdown 1ujSYC3tEC3VNoxqUIWO2PG7Lg5HAdYqn
+https://drive.google.com/file/d/1dSSOEPwwztxc60kc98gGSmdMQmrADEo6
 unzip models.zip
 rm models.zip
 ```
 
 **Windows:**
 ```bash
-gdown 1ujSYC3tEC3VNoxqUIWO2PG7Lg5HAdYqn
+https://drive.google.com/file/d/1dSSOEPwwztxc60kc98gGSmdMQmrADEo6
 tar -xf models.zip
 del models.zip
 ```
