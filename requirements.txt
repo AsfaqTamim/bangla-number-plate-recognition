@@ -1,0 +1,31 @@
+# Core dependencies for Bengali ALPR
+# Compatible with macOS (Apple Silicon)
+
+# Computer Vision
+opencv-python>=4.8.0
+opencv-python-headless>=4.8.0
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# OCR
+easyocr>=1.7.0
+
+# Object Detection
+ultralytics>=8.0.0
+
+# Utilities
+numpy>=1.25.0
+Pillow>=10.0.0
+scipy>=1.11.0
+scikit-image>=0.21.0
+matplotlib>=3.7.0
+imutils>=0.5.4
+gdown>=4.7.0
+
+# Required by EasyOCR
+python-bidi>=0.4.2
+PyYAML>=6.0.0
+pyclipper>=1.3.0
+Shapely>=2.0.0
